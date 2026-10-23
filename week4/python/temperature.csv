@@ -1,0 +1,4 @@
+Every 2.0s: vcgencmd measure_temp                    Pi2-yi: Fri Oct 23 12:06:42 2026
+
+temp=50.1'C
+
