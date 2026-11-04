@@ -2,7 +2,9 @@
 Upload:
 ```
 images/raspberry-pi/pi-board.jpg
+https://datacapturecontrol.com/articles/io-devices/single-board-computers/raspberry-pi-4b
 images/raspberry-pi/labelled-pi-board.jpg
+https://www.elepcb.com/blog/raspberry-pi-series-models-features-uses/
 ```
 ---
 
